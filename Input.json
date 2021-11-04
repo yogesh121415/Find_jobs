@@ -1,0 +1,12 @@
+{
+    "jobSites": {
+        "Naukri": "https://www.naukri.com/browse-jobs",
+        "Indeed": "https://in.indeed.com/?from=gnav-jobsearch--jasx",
+        "LinkedIn": "https://in.linkedin.com/jobs/jobs-in-gurugram?trk=homepage-basic_intent-module-jobs&position=1&pageNum=0"
+    },
+    "Keywords": {
+        "Role": "Software Developer",
+        "location": "Bangalore"
+    }
+
+}
